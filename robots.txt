@@ -5,3 +5,5 @@ Disallow:
 # This line has been added to demonstrate the use of "git-pull" command
 # This line has been added to demonstrate the use of "git-push" command
 # This line has been added to demonstrate the use changes made ussing the "ssh protocal"
+
+# SSH password change - "proof is in the puddin'"
